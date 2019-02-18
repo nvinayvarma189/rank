@@ -16,6 +16,6 @@ However this is algorithm takes only the number of upvotes and downvotes into ac
 3. As the time goes on, the answer will be old and may not be helpful or relevant to the current technology as it changes fast.
 4. An answer upvoted by people with high rating will be ranked higher ( 10 upvotes from qualified people > 20 upvotes from beginners)
 
-And the list goes on. This Repo will be a headstart for someone who wish to build an state-of-the-art algorithm for ranking reviews or answers.
+And the list goes on. This Repo will be a headstart for someone who wish to build an algorithm for ranking reviews or answers.
 
 Please Open an issue if you have any question. Open a pull request if you have new ideas to improve the algorithm.
